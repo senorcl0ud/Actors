@@ -1,0 +1,15 @@
+com\claude\actors_ws\UpdateActorResponse.class
+com\claude\actors_ws\AddActorResponse.class
+com\claude\actors_ws\DeleteActorResponse.class
+com\claude\App.class
+com\claude\actors_ws\GetAllActorsResponse.class
+com\claude\actors_ws\UpdateActorRequest.class
+com\claude\actors_ws\ServiceStatus.class
+com\claude\actors_ws\DeleteActorRequest.class
+com\claude\actors_ws\package-info.class
+com\claude\actors_ws\GetAllActorsRequest.class
+com\claude\actors_ws\ActorInfo.class
+com\claude\actors_ws\ObjectFactory.class
+com\claude\actors_ws\GetActorByIdResponse.class
+com\claude\actors_ws\GetActorByIdRequest.class
+com\claude\actors_ws\AddActorRequest.class
